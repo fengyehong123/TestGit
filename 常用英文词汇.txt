@@ -1,11 +1,13 @@
-1. persisit  : 保存1122
+1. persisit  : 保存11223333
 
 2. merge  : 融合;更新22
 33
 
-3. transaction  : 事务
+3. transaction  : 事务2323
+2323
 
 4. redundant  : 被裁减的; 多余的; 不需要的;
+4545
 
 5. entity : 实体类
 
@@ -475,4 +477,5 @@
 198. concept
 
 		概念;观念;
+
 
