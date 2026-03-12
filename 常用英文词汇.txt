@@ -1,20 +1,14 @@
-1. persisit  : 保存11223333
-1.1 内容
-2. merge  : 融合;更新22
-33
-2.1 内容
+1. persisit  : 保存
 
-3. transaction  : 事务2323
-2323
-3.1 内容
+2. merge  : 融合;更新
+
+3. transaction  : 事务
 
 4. redundant  : 被裁减的; 多余的; 不需要的;
-4545
 
 5. entity : 实体类
 
 6. detected : 发现, 侦察出
-6.1 内容
 
 7. semicolon : 分号
 
@@ -480,6 +474,7 @@
 198. concept
 
 		概念;观念;
+
 
 
 
