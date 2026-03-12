@@ -1,6 +1,7 @@
 1. persisit  : 保存
 
 2. merge  : 融合;更新
+2.2 新增加的内容
 
 3. transaction  : 事务
 
